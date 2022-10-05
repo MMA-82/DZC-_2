@@ -1,11 +1,11 @@
 ﻿Console.Write("Введите координату точки A, х: ");
 int xA = int.Parse(Console.ReadLine() ?? "0");
-Console.Write("Введите координатe точки A, у: ");
+Console.Write("Введите координату точки A, у: ");
 int yA = int.Parse(Console.ReadLine() ?? "0");
 
 Console.Write("Введите координату точки B, х: ");
 int xB = int.Parse(Console.ReadLine() ?? "0");
-Console.Write("Введите координатe точки B, у: ");
+Console.Write("Введите координату точки B, у: ");
 int yB = int.Parse(Console.ReadLine() ?? "0");
 
 
